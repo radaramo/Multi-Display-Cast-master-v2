@@ -5,9 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Multi-Display-Cast-master.iml" filepath="$PROJECT_DIR$/Multi-Display-Cast-master.iml" />
       <module fileurl="file://D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\MultiCast.iml" filepath="D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\MultiCast.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\demo\demo.iml" filepath="D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\demo\demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/multidisplaycast/multidisplaycast.iml" filepath="$PROJECT_DIR$/multidisplaycast/multidisplaycast.iml" />
-      <module fileurl="file://D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\multidisplaycast\multidisplaycast.iml" filepath="D:\TVSTREAMING\MunixCast\Multi-Display-Cast-master\multidisplaycast\multidisplaycast.iml" />
     </modules>
   </component>
 </project>

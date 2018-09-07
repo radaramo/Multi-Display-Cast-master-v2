@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements CastListener, Pla
             videoButton.setVisibility( View.GONE );
             loader.setVisibility( View.VISIBLE );
             CastManager.getInstance()
-                    .playMedia( "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4", "video/mp4", "Big Buck Bunny", "MP4", "http://camendesign.com/code/video_for_everybody/poster.jpg" );
+                    .playMedia( "http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8", "application/vnd.apple.mpegurl", "Big Buck Bunny", "MP4", "http://camendesign.com/code/video_for_everybody/poster.jpg" );
         }
     }
 
